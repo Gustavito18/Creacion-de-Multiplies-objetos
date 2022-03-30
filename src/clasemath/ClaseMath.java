@@ -10,8 +10,8 @@ public class ClaseMath {
        estructuraContro1();
       
     }
-    
-   //Raiz Cuadrada
+
+     //Raiz Cuadrada
     private static void estructuraContro1() {
      double valor = 0.0;
     
@@ -22,7 +22,7 @@ public class ClaseMath {
        System.out.println("Su raiz es de:" + raizcuadrada);
     }
     
-    //Elevacion a Potencia 
+ //Elevacion a Potencia 
     private static void estructuraContro2() {
         double b = 0.0, e = 0.0;
         
